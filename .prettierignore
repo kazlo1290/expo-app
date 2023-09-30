@@ -1,0 +1,5 @@
+# Ignore artifacts:
+/.expo
+build
+coverage
+.next
